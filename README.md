@@ -4,4 +4,4 @@
 
 These are my answers for the 2018 year, it is also my first time attepmting something like this.
 
-_Note to reader: I am going to attempt this in multiple languages. Some I will be comfortable with, some will be brand new_
+_Note to reader:_ I am going to attempt this in multiple languages. Some I will be comfortable with, some will be brand new
